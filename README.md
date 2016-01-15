@@ -13,6 +13,11 @@ script.
 
 Feel free to contribute!
 
+### WebEssentials settings
+
+In `WebEssentials-Settings.json`, note that I disabled the `"CompileOnSave"` for Markdown. Otherwise, everytime
+the file is saved, the default compilation takes over and you lose the template in the actual file.
+
 # Links
 
 This sample created for Stack Overflow question
